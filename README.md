@@ -30,7 +30,7 @@ Unit Converter is a simple yet powerful Android application that helps users con
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/unit-converter.git
+   git clone https://github.com/Darshan4518/unit-converter.git
    ```
 
 2. Open the project in **Android Studio**.
